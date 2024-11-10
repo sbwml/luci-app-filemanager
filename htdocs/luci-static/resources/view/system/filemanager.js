@@ -6,7 +6,7 @@
 'require rpc';
 
 var currentPath = '/';
-var sortField = 'name';
+var sortField = 'type';
 var sortDirection = 'asc';
 var configFilePath = '/etc/config/filemanager';
 var config = {
