@@ -29,6 +29,10 @@ msgstr ""
 msgid "Column Widths (format: name:width,type:width,...):"
 msgstr ""
 
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1580
+msgid ".. (Parent Directory)"
+msgstr ""
+
 #: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1494
 msgid "Create"
 msgstr ""

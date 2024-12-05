@@ -1577,7 +1577,7 @@ return view.extend({
 					'click': function() {
 						self.handleDirectoryClick(parentPath);
 					}
-				}, '.. (Parent Directory)')])]);
+				}, _('.. (Parent Directory)'))])]);
 				fileList.appendChild(listItemUp);
 			}
 			files.forEach(function(file) {

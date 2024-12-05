@@ -29,6 +29,10 @@ msgstr "列最小宽度（格式：name:minWidth,type:minWidth,...）："
 msgid "Column Widths (format: name:width,type:width,...):"
 msgstr "列宽度（格式：name:width,type:width,...）："
 
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1580
+msgid ".. (Parent Directory)"
+msgstr ".. （返回上一级）"
+
 #: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1494
 msgid "Create"
 msgstr "创建"
@@ -51,7 +55,7 @@ msgstr "创建文件夹"
 
 #: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1061
 msgid "Current Directory:"
-msgstr "当前目录："
+msgstr "默认目录："
 
 #: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager/HexEditor.js:1238
 msgid "Decoded Text"
